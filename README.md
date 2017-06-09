@@ -1,7 +1,7 @@
 PicAlign
 ========
 
-PicAlign is a tool that can be used to align a set of images taken from a similar but not-quite aligned point of view (think handeld). It is particularly useful for creating "time-lapse" videos. PicAlign is another take on [FaceAlign](https://github.com/roblourens/facealign)
+PicAlign is a tool that can be used to align a set of images taken from a similar but not-quite aligned point of view (think handeld). It is particularly useful for creating "time-lapse" videos. PicAlign is another take on [FaceAlign](https://github.com/roblourens/facealign). It was for instance used to produce [this video](https://goo.gl/photos/QkE5GK7PBJrwJJUA7)
 
 How it works
 ------------
